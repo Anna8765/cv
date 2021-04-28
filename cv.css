@@ -1,0 +1,12 @@
+.photo{
+    text-align: right;
+}
+.cv{
+  background: wheat;
+  border-radius: 35px 35px 35px 35px ;
+  width: 70%;
+ margin: auto;
+}
+h3{
+  text-decoration: underline;
+}
